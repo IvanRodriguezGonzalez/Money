@@ -88,7 +88,7 @@ public class MoneyTest extends TestCase {
    }
 
    public void testSumTimes(){
-       Expression fiveBucks = Money.dollar(35);
+       Expression fiveBucks = Money.dollar(5);
        Expression tenFrancs = Money.franc(10);
        Bank bank = new Bank();
        bank.addRate("CHF","USD",2);
