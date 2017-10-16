@@ -88,12 +88,12 @@ public class MoneyTest extends TestCase {
    }
 
    public void testSumTimes(){
-       Expression fiveBucks = Money.dollar(5);
+       Expression fiveBucks = Money.dollar(6);
        Expression tenFrancs = Money.franc(10);
        Bank bank = new Bank();
        bank.addRate("CHF","USD",2);
        Expression sum = new Sum (fiveBucks,tenFrancs).times(2);
        Money result = bank.reduce (sum,"USD");
-       assertEquals(Money.dollar(20),result);
+       assertEquals(Money.dollar(22),result);
    }
 }
