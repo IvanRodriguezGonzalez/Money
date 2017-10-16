@@ -1,0 +1,9 @@
+<changelist name="ok" date="1508113838972" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/ok/shelved.patch" />
+  <option name="DESCRIPTION" value="ok" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/test/Money/tddMoney/MoneyTest.class" />
+    <option name="AFTER_PATH" value="out/test/Money/tddMoney/MoneyTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ok/MoneyTest.class" />
+  </binary>
+</changelist>

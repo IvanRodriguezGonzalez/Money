@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c13b139-071e-43d0-9588-35bc011e95fa" name="Default" comment="ok">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Money/tddMoney/MoneyTest.class" afterPath="$PROJECT_DIR$/out/test/Money/tddMoney/MoneyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/ok.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Money.iml" afterPath="$PROJECT_DIR$/Money.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tddMoney/MoneyTest.java" afterPath="$PROJECT_DIR$/src/tddMoney/MoneyTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +134,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
+    <option name="x" value="12" />
     <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="979" />
@@ -157,9 +155,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,7 +181,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -546,7 +544,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="22" width="1680" height="979" extended-state="0" />
+    <frame x="12" y="22" width="1680" height="979" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
